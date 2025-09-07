@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "goblins_tyranny:goblin_upgraded_mace", "required": false},
+    {"id": "goblins_tyranny:goblin_mace", "required": false},
+
+    {"id": "aether:hammer_of_kingbdogz", "required": false},
+
+    {"id": "tconstruct:sledge_hammer", "required": false},
+    {"id": "tconstruct:vein_hammer", "required": false}
+  ]
+}

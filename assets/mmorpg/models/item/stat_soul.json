@@ -17,10 +17,11 @@
 		{ "predicate": {  "custom_model_data": 11 }, "model": "mmorpg:item/stat_soul/shield"},
 		{ "predicate": {  "custom_model_data": 12 }, "model": "mmorpg:item/stat_soul/ring"},
 		{ "predicate": {  "custom_model_data": 13 }, "model": "mmorpg:item/stat_soul/necklace"},
+
 		{ "predicate": {  "custom_model_data": 100 }, "model": "mmorpg:item/stat_soul/axe"},
 		{ "predicate": {  "custom_model_data": 101 }, "model": "mmorpg:item/stat_soul/dagger"},
 		{ "predicate": {  "custom_model_data": 102 }, "model": "mmorpg:item/stat_soul/great_axe"},
-		{ "predicate": {  "custom_model_data": 103 }, "model": "mmorpg:item/stat_soul/great_sword"}
-
+		{ "predicate": {  "custom_model_data": 103 }, "model": "mmorpg:item/stat_soul/great_sword"},
+		{ "predicate": {  "custom_model_data": 104 }, "model": "mmorpg:item/stat_soul/hammer"}
 	]
 }

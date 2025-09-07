@@ -14,5 +14,9 @@
 
   "mmorpg.gearslot.great_sword": "Great Sword",
   "mmorpg.tag.gear_slot.great_sword": "Great Sword",
-  "mmorpg.gear_type.great_sword": "Great Sword"
+  "mmorpg.gear_type.great_sword": "Great Sword",
+
+  "mmorpg.gearslot.hammer": "Hammer",
+  "mmorpg.tag.gear_slot.hammer": "Hammer",
+  "mmorpg.gear_type.hammer": "Hammer"
 }

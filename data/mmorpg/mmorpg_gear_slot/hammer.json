@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "hammer",
+  "model_num": 104,
+  "weapon_data": {
+    "damage_multiplier": 3.0,
+    "energy_cost_per_mob_attacked": 8.0,
+    "energy_cost_per_swing": 8.0
+  },
+  "weight": 1000
+}
