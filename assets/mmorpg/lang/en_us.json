@@ -18,5 +18,9 @@
 
   "mmorpg.gearslot.hammer": "Hammer",
   "mmorpg.tag.gear_slot.hammer": "Hammer",
-  "mmorpg.gear_type.hammer": "Hammer"
+  "mmorpg.gear_type.hammer": "Hammer",
+
+  "mmorpg.gearslot.mace": "Mace",
+  "mmorpg.tag.gear_slot.mace": "Mace",
+  "mmorpg.gear_type.mace": "Mace"
 }

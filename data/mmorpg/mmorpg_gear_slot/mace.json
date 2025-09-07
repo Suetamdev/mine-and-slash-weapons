@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "mace",
+  "model_num": 105,
+  "weapon_data": {
+    "damage_multiplier": 2.9,
+    "energy_cost_per_mob_attacked": 6.0,
+    "energy_cost_per_swing": 6.0
+  },
+  "weight": 1000
+}

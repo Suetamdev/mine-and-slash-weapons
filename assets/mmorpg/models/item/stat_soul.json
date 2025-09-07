@@ -22,6 +22,7 @@
 		{ "predicate": {  "custom_model_data": 101 }, "model": "mmorpg:item/stat_soul/dagger"},
 		{ "predicate": {  "custom_model_data": 102 }, "model": "mmorpg:item/stat_soul/great_axe"},
 		{ "predicate": {  "custom_model_data": 103 }, "model": "mmorpg:item/stat_soul/great_sword"},
-		{ "predicate": {  "custom_model_data": 104 }, "model": "mmorpg:item/stat_soul/hammer"}
+		{ "predicate": {  "custom_model_data": 104 }, "model": "mmorpg:item/stat_soul/hammer"},
+		{ "predicate": {  "custom_model_data": 104 }, "model": "mmorpg:item/stat_soul/mace"}
 	]
 }
