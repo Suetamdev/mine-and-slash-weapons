@@ -1,0 +1,30 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 8.0,
+      "min": 4.0,
+      "stat": "weapon_damage"
+    }
+  ],
+  "gear_slot": "dagger",
+  "guid": "dagger",
+  "possible_items": [],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "dexterity": 0.6
+    }
+  },
+  "style": "DEX",
+  "tags": {
+    "tags": [
+      "dexterity",
+      "weapon_family",
+      "melee_weapon",
+      "dagger"
+    ]
+  },
+  "weapon_type": "dagger",
+  "weight": 1000
+}

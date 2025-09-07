@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "great_axe",
+  "model_num": 102,
+  "weapon_data": {
+    "damage_multiplier": 4.1,
+    "energy_cost_per_mob_attacked": 7.0,
+    "energy_cost_per_swing": 7.0
+  },
+  "weight": 0
+}

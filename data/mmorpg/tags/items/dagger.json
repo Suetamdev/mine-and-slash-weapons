@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "farmersdelight:flint_knife", "required": false},
+    {"id": "farmersdelight:iron_knife", "required": false},
+    {"id": "farmersdelight:diamond_knife", "required": false},
+    {"id": "farmersdelight:netherite_knife", "required": false},
+    {"id": "farmersdelight:golden_knife", "required": false},
+
+    {"id": "twilightdelight:ironwood_knife", "required": false},
+    {"id": "twilightdelight:steeleaf_knife", "required": false},
+    {"id": "twilightdelight:knightmetal_knife", "required": false},
+    {"id": "twilightdelight:fiery_knife", "required": false},
+
+    {"id": "aether:lightning_knife", "required": false},
+
+    {"id": "alexscaves:desolate_dagger", "required": false},
+
+    {"id": "alexscavesdelight:azure_neodymium_knife", "required": false},
+    {"id": "alexscavesdelight:scarlet_neodymium_knife", "required": false},
+    {"id": "alexscavesdelight:uranium_knife", "required": false},
+    {"id": "alexscavesdelight:tectonic_knife", "required": false},
+    {"id": "alexscavesdelight:pearl_knife", "required": false},
+    {"id": "alexscavesdelight:pure_darkness_knife", "required": false},
+    {"id": "alexscavesdelight:gingerbread_knife", "required": false},
+    {"id": "alexscavesdelight:candy_knife", "required": false},
+    {"id": "alexscavesdelight:sweet_tooth_knife", "required": false},
+    {"id": "alexscavesdelight:caramel_knife", "required": false},
+
+    {"id": "arsdelight:enchanters_knife", "required": false},
+
+    {"id": "aetherdelight:holystone_knife", "required": false},
+    {"id": "aetherdelight:zanite_knife", "required": false},
+    {"id": "aetherdelight:gravitite_knife", "required": false},
+    {"id": "aetherdelight:skyjade_knife", "required": false},
+    {"id": "aetherdelight:stratus_knife", "required": false},
+    {"id": "aetherdelight:verudium_knife", "required": false},
+
+    {"id": "tconstruct:dagger", "required": false}
+  ]
+}

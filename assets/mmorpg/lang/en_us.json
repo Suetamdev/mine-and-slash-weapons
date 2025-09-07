@@ -1,0 +1,18 @@
+{
+
+  "mmorpg.gearslot.axe": "Axe",
+  "mmorpg.tag.gear_slot.axe": "Axe",
+  "mmorpg.gear_type.axe": "Axe",
+
+  "mmorpg.gearslot.dagger": "Dagger",
+  "mmorpg.tag.gear_slot.dagger": "Dagger",
+  "mmorpg.gear_type.dagger": "Dagger",
+
+  "mmorpg.gearslot.great_axe": "Great Axe",
+  "mmorpg.tag.gear_slot.great_axe": "Great Axe",
+  "mmorpg.gear_type.great_axe": "Great Axe",
+
+  "mmorpg.gearslot.great_sword": "Great Sword",
+  "mmorpg.tag.gear_slot.great_sword": "Great Sword",
+  "mmorpg.gear_type.great_sword": "Great Sword"
+}

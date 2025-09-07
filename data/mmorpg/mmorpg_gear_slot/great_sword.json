@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "great_sword",
+  "model_num": 103,
+  "weapon_data": {
+    "damage_multiplier": 4.0,
+    "energy_cost_per_mob_attacked": 6.0,
+    "energy_cost_per_swing": 6.0
+  },
+  "weight": 1000
+}
