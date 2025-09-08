@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    {"id": "tconstruct:kama", "required": false}
+    {"id": "tconstruct:kama", "required": false},
+
+    {"id": "immersive_weathing:ice_sickle", "required": false}
   ]
 }

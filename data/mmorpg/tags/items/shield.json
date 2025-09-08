@@ -1,6 +1,12 @@
 {
   "replace": false,
   "values": [
-    {"id": "tconstruct:travelers_shield", "required": false}
+    {"id": "minecraft:shield", "required": false},
+
+    {"id": "tconstruct:travelers_shield", "required": false},
+
+    {"id": "alexscaves:resistor_shield", "required": false},
+    
+    {"id": "alexsmobs:shield_of_the_deep", "required": false}
   ]
 }

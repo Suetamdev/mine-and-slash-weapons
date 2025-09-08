@@ -7,6 +7,8 @@
     {"id": "aether:hammer_of_kingbdogz", "required": false},
 
     {"id": "tconstruct:sledge_hammer", "required": false},
-    {"id": "tconstruct:vein_hammer", "required": false}
+    {"id": "tconstruct:vein_hammer", "required": false},
+
+    {"id": "tinkers_delight:awakened_jinhua_ham", "required": false}
   ]
 }

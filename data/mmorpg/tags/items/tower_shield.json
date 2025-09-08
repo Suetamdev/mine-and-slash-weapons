@@ -1,12 +1,6 @@
 {
   "replace": false,
   "values": [
-    {"id": "minecraft:shield", "required": false},
-
-    {"id": "alexscaves:resistor_shield", "required": false},
-
-    {"id": "alexsmobs:shield_of_the_deep", "required": false},
-
     {"id": "tconstruct:plate_shield", "required": false}
   ]
 }

@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    {"id": "tconstruct:cleaver", "required": false}
+    {"id": "tconstruct:cleaver", "required": false},
+
+    {"id": "twilightforest:giant_sword", "required": false}
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "alexscaves:sea_staf", "required": false},
+    {"id": "alexscaves:sugar_staff", "required": false},
+
+    {"id": "deeperdarker:sonorous_staf", "required": false},
+
+    {"id": "twilightforest:twilight_scepter", "required": false},
+    {"id": "twilightforest:lifedrain_scepter", "required": false},
+    {"id": "twilightforest:zombie_scepter", "required": false},
+    {"id": "twilightforest:fortification_scepter", "required": false},
+    {"id": "twilightforest:lamp_of_cinders", "required": false},
+    {"id": "twilightforest:peacock_feather_fan", "required": false},
+
+    {"id": "tconstruct:sky_staff", "required": false},
+    {"id": "tconstruct:earth_staff", "required": false},
+    {"id": "tconstruct:ichor_staff", "required": false},
+    {"id": "tconstruct:ender_staff", "required": false},
+
+    {"id": "aether:cloud_staff", "required": false},
+    {"id": "aether:nature_staff", "required": false}
+  ]
+}
