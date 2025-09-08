@@ -1,0 +1,37 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 15.0,
+      "stat": "armor"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "block_chance"
+    }
+  ],
+  "gear_slot": "tower_shield",
+  "guid": "tower_shield",
+  "possible_items": [],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "strength": 1.0
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "shield",
+      "tower_shield",
+      "strength",
+      "offhand_family",
+      "armor_stat"
+    ]
+  },
+  "weapon_type": "none",
+  "weight": 1000
+}

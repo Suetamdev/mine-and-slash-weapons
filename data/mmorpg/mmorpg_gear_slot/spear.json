@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "spear",
+  "model_num": 108,
+  "weapon_data": {
+    "damage_multiplier": 2.2,
+    "energy_cost_per_mob_attacked": 4.0,
+    "energy_cost_per_swing": 4.0
+  },
+  "weight": 0
+}

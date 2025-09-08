@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "alexscaves:limestone_spear", "required": false},
+    {"id": "alexscaves:extinction_spear", "required": false},
+    {"id": "alexscaves:frostmint_spear", "required": false},
+    {"id": "alexscaves:ortholance", "required": false},
+
+    {"id": "goblins_tyranny:goblin_spear", "required": false},
+
+    {"id": "minecolonies:spear", "required": false},
+
+    {"id": "aether:valkyrie_lance", "required": false}
+  ]
+}

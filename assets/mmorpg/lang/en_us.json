@@ -22,5 +22,21 @@
 
   "mmorpg.gearslot.mace": "Mace",
   "mmorpg.tag.gear_slot.mace": "Mace",
-  "mmorpg.gear_type.mace": "Mace"
+  "mmorpg.gear_type.mace": "Mace",
+
+  "mmorpg.gearslot.scythe": "Scythe",
+  "mmorpg.tag.gear_slot.scythe": "Scythe",
+  "mmorpg.gear_type.scythe": "Scythe",
+
+  "mmorpg.gearslot.sickle": "Sickle",
+  "mmorpg.tag.gear_slot.sickle": "Sickle",
+  "mmorpg.gear_type.sickle": "Sickle",
+
+  "mmorpg.gearslot.spear": "Spear",
+  "mmorpg.tag.gear_slot.spear": "Spear",
+  "mmorpg.gear_type.spear": "Spear",
+
+  "mmorpg.gearslot.tower_shield": "Tower Shield",
+  "mmorpg.tag.gear_slot.tower_shield": "Tower Shield",
+  "mmorpg.gear_type.tower_shield": "Tower Shield"
 }
