@@ -1,7 +1,7 @@
 {
   "fam": "OffHand",
   "id": "tower_shield",
-  "model_num": 300,
+  "model_num": 109,
   "weapon_data": {
     "damage_multiplier": 0.0,
     "energy_cost_per_mob_attacked": 0.0,
