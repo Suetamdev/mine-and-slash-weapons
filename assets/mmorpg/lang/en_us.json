@@ -23,6 +23,10 @@
   "mmorpg.gearslot.mace": "Mace",
   "mmorpg.tag.gear_slot.mace": "Mace",
   "mmorpg.gear_type.mace": "Mace",
+  
+  "mmorpg.gearslot.pickaxe": "Pickaxe",
+  "mmorpg.tag.gear_slot.pickaxe": "Pickaxe",
+  "mmorpg.gear_type.pickaxe": "Pickaxe",
 
   "mmorpg.gearslot.scythe": "Scythe",
   "mmorpg.tag.gear_slot.scythe": "Scythe",

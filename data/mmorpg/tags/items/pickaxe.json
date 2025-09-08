@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "minecraft:wooden_pickaxe", "required": false},
+    {"id": "minecraft:stone_pickaxe", "required": false},
+    {"id": "minecraft:iron_pickaxe", "required": false},
+    {"id": "minecraft:golden_pickaxe", "required": false},
+    {"id": "minecraft:diamond_pickaxe", "required": false},
+    {"id": "minecraft:netherite_pickaxe", "required": false},
+
+    {"id": "alexsmobs:ghostly_pickaxe", "required": false},
+
+    {"id": "deep_aether:skyjade_pickaxe", "required": false},
+    {"id": "deep_aether:stratus_pickaxe", "required": false},
+
+    {"id": "deeperdarker:resonarium_pickaxe", "required": false},
+    {"id": "deeperdarker:warden_pickaxe", "required": false},
+
+    {"id": "kobols:kobold_iron_pickaxe", "required": false},
+
+    {"id": "aether:skyroot_pickaxe", "required": false},
+    {"id": "aether:holystone_pickaxe", "required": false},
+    {"id": "aether:zanite_pickaxe", "required": false},
+    {"id": "aether:gravitite_pickaxe", "required": false},
+    {"id": "aether:valkyrie_pickaxe", "required": false},
+
+    {"id": "twilightforest:ironwood_pickaxe", "required": false},
+    {"id": "twilightforest:steeleaf_pickaxe", "required": false},
+    {"id": "twilightforest:knightmetal_pickaxe", "required": false},
+    {"id": "twilightforest:fiery_pickaxe", "required": false},
+    {"id": "twilightforest:giant_pickaxe", "required": false},
+
+    {"id": "tconstruct:pickaxe", "required": false}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "pickaxe",
+  "model_num": 110,
+  "weapon_data": {
+    "damage_multiplier": 2.2,
+    "energy_cost_per_mob_attacked": 4.5,
+    "energy_cost_per_swing": 6.0
+  },
+  "weight": 1000
+}
