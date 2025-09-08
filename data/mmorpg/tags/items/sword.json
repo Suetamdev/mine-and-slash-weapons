@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "twilightforest:ironwood_sword", "required": false},
+    {"id": "twilightforest:steeleaf_sword", "required": false},
+    {"id": "twilightforest:knightmetal_sword", "required": false},
+    {"id": "twilightforest:fiery_sword", "required": false},
+    {"id": "twilightforest:ice_sword", "required": false},
+    {"id": "twilightforest:glass_sword", "required": false},
+    {"id": "twilightforestdelight:teardrop_sword", "required": false},
+
+    {"id": "aether:skyroot_sword", "required": false},
+    {"id": "aether:holystone_sword", "required": false},
+    {"id": "aether:zanite_sword", "required": false},
+    {"id": "aether:gravitite_sword", "required": false},
+    {"id": "aether:candy_cane_sword", "required": false},
+    {"id": "aether:holy_sword", "required": false},
+    {"id": "aether:vampire_blade", "required": false},
+    {"id": "aether:lightning_sword", "required": false},
+    {"id": "aether:flaming_sword", "required": false},
+    {"id": "aether:pig_slayer", "required": false},
+
+    {"id": "goblins_tyranny:goblin_sword", "required": false},
+
+    {"id": "nethersdelight:iron_machete", "required": false},
+    {"id": "nethersdelight:diamond_machete", "required": false},
+    {"id": "nethersdelight:netherite_machete", "required": false},
+    {"id": "nethersdelight:golden_machete", "required": false},
+
+    {"id": "tconstruct:sword", "required": false}
+  ]
+}
