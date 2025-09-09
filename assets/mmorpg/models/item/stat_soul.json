@@ -29,5 +29,6 @@
 		{ "predicate": {  "custom_model_data": 108 }, "model": "mmorpg:item/stat_soul/spear"},
 		{ "predicate": {  "custom_model_data": 109 }, "model": "mmorpg:item/stat_soul/shield"},
 		{ "predicate": {  "custom_model_data": 110 }, "model": "mmorpg:item/stat_soul/pickaxe"}
+
 	]
 }
