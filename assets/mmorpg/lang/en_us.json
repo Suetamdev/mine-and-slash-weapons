@@ -28,6 +28,10 @@
   "mmorpg.tag.gear_slot.pickaxe": "Pickaxe",
   "mmorpg.gear_type.pickaxe": "Pickaxe",
 
+  "mmorpg.gearslot.pistol": "Pistol",
+  "mmorpg.tag.gear_slot.pistol": "Pistol",
+  "mmorpg.gear_type.pistol": "Pistol",
+
   "mmorpg.gearslot.scythe": "Scythe",
   "mmorpg.tag.gear_slot.scythe": "Scythe",
   "mmorpg.gear_type.scythe": "Scythe",
@@ -35,6 +39,10 @@
   "mmorpg.gearslot.sickle": "Sickle",
   "mmorpg.tag.gear_slot.sickle": "Sickle",
   "mmorpg.gear_type.sickle": "Sickle",
+
+  "mmorpg.gearslot.shovel": "Shovel",
+  "mmorpg.tag.gear_slot.shovel": "Shovel",
+  "mmorpg.gear_type.shovel": "Shovel",
 
   "mmorpg.gearslot.spear": "Spear",
   "mmorpg.tag.gear_slot.spear": "Spear",

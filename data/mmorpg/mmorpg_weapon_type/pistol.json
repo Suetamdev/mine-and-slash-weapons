@@ -6,8 +6,8 @@
     "tag_and_id_check": "ANY",
     "valid_proj_dmg_id": []
   },
-  "id": "sickle",
-  "isProjectile": false,
-  "range": "MELEE",
+  "id": "pistol",
+  "isProjectile": true,
+  "range": "RANGED",
   "style": "DEX"
 }

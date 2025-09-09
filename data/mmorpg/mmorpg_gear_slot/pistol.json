@@ -1,0 +1,11 @@
+{
+  "fam": "Weapon",
+  "id": "pistol",
+  "model_num": 112,
+  "weapon_data": {
+    "damage_multiplier": 2.8,
+    "energy_cost_per_mob_attacked": 4.0,
+    "energy_cost_per_swing": 0.0
+  },
+  "weight": 1000
+}

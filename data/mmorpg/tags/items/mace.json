@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    {"id": "tconstruct:excavator", "required": false}
+    {"id": "tconstruct:battlesign", "required": false},
+    {"id": "tconstruct:melting_pan", "required": false}
   ]
 }

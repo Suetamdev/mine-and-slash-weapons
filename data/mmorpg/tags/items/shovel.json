@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:wooden_shovel", "required": false },
+    { "id": "minecraft:stone_shovel", "required": false },
+    { "id": "minecraft:iron_shovel", "required": false },
+    { "id": "minecraft:golden_shovel", "required": false },
+    { "id": "minecraft:diamond_shovel", "required": false },
+    { "id": "minecraft:netherite_shovel", "required": false },
+
+    { "id": "deep_aether:skyjade_shovel", "required": false },
+    { "id": "deep_aether:stratus_shovel", "required": false },
+
+    { "id": "deeperdarker:resonarium_shovel", "required": false },
+    { "id": "deeperdarker:warden_shovel", "required": false },
+
+    { "id": "kobolds:kobold_iron_shovel", "required": false },
+
+    { "id": "aether:skyroot_shovel", "required": false },
+    { "id": "aether:holystone_shovel", "required": false },
+    { "id": "aether:holystone_shovel", "required": false },
+    { "id": "aether:zanite_shovel", "required": false },
+    { "id": "aether:gravitite_shovel", "required": false },
+    { "id": "aether:valkyrie_shovel", "required": false },
+
+    { "id": "twilightforest:ironwood_shovel", "required": false },
+    { "id": "twilightforest:steeleaf_shovel", "required": false },
+
+    { "id": "tconstruct:excavator", "required": false }
+  ]
+}
