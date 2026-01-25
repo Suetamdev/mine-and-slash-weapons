@@ -7,6 +7,7 @@
   "CRAFTED_GEAR_POTENTIAL_MULTI": 0.5,
   "DMG_MOB_BONUS_PER_MAP_TIER": 0.01,
   "DMG_REDUCT_PER_CHAIN": 0.2,
+  "GLOBAL_COOLDOWN_TICKS": 3,
   "HP_MOB_BONUS_PER_MAP_TIER": 0.1,
   "MANA_COST_SCALING": {
     "base_scaling": 1.5,
@@ -43,12 +44,34 @@
     "cap_to_max_lvl": true,
     "per_level_scaling": 0.2
   },
+  "backpack_tabs": {
+    "CURRENCY": {
+      "rows": 6,
+      "stack_multiplier": 1
+    },
+    "GEARS": {
+      "rows": 6,
+      "stack_multiplier": 1
+    },
+    "MAPS": {
+      "rows": 6,
+      "stack_multiplier": 1
+    },
+    "PROFESSION": {
+      "rows": 6,
+      "stack_multiplier": 1
+    },
+    "SKILL_GEMS": {
+      "rows": 6,
+      "stack_multiplier": 1
+    }
+  },
   "id": "compat_mode_balance",
-  "link_1_lvl": 5,
-  "link_2_lvl": 25,
-  "link_3_lvl": 50,
-  "link_4_lvl": 100,
-  "link_5_lvl": 150,
+  "link_1_lvl": 1,
+  "link_2_lvl": 5,
+  "link_3_lvl": 10,
+  "link_4_lvl": 25,
+  "link_5_lvl": 50,
   "player_points": {
     "ASCENDANCY": {
       "type": "ASCENDANCY",
